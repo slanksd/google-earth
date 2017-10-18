@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Folder>
+	<name>28151-D</name>
+	<visibility>0</visibility>
+	<open>1</open>
+	<Folder>
+		<name>by Sheet No.</name>
+		<visibility>0</visibility>
+		<open>1</open>
+		<GroundOverlay>
+			<name>72, 03-C-141</name>
+			<visibility>0</visibility>
+			<Icon>
+				<href>../draw/28151-d/28151-D-72_GE8192.tif</href>
+				<viewBoundScale>0.75</viewBoundScale>
+			</Icon>
+			<LatLonBox>
+				<north>32.54762524243236</north>
+				<south>32.54527124243236</south>
+				<east>-117.064791689571</east>
+				<west>-117.0690816895711</west>
+				<rotation>38.67086451445471</rotation>
+			</LatLonBox>
+		</GroundOverlay>
+		<GroundOverlay>
+			<name>73, 03-C-142</name>
+			<visibility>0</visibility>
+			<Icon>
+				<href>../draw/28151-d/28151-D-73_GE8192.tif</href>
+				<viewBoundScale>0.75</viewBoundScale>
+			</Icon>
+			<LatLonBox>
+				<north>32.54980282633689</north>
+				<south>32.54745782633695</south>
+				<east>-117.0627807727159</east>
+				<west>-117.0671017727159</west>
+				<rotation>55.35088314692119</rotation>
+			</LatLonBox>
+		</GroundOverlay>
+		<GroundOverlay>
+			<name>74, 03-C-143</name>
+			<visibility>0</visibility>
+			<Icon>
+				<href>../draw/28151-d/28151-D-74_GE8192.tif</href>
+				<viewBoundScale>0.75</viewBoundScale>
+			</Icon>
+			<LatLonBox>
+				<north>32.55238180839837</north>
+				<south>32.55005680839847</south>
+				<east>-117.0609409389383</east>
+				<west>-117.0652519389383</west>
+				<rotation>72.65891718300283</rotation>
+			</LatLonBox>
+		</GroundOverlay>
+		<GroundOverlay>
+			<name>75, 03-C-144</name>
+			<visibility>0</visibility>
+			<Icon>
+				<href>../draw/28151-d/28151-D-75_GE8192.tif</href>
+				<viewBoundScale>0.75</viewBoundScale>
+			</Icon>
+			<LatLonBox>
+				<north>32.55556528536388</north>
+				<south>32.55327528536387</south>
+				<east>-117.0605802750059</east>
+				<west>-117.0648452750059</west>
+				<rotation>89.95102321794001</rotation>
+			</LatLonBox>
+		</GroundOverlay>
+		<GroundOverlay>
+			<name>76, 03-C-145</name>
+			<visibility>0</visibility>
+			<Icon>
+				<href>../draw/28151-d/28151-D-76_GE8192.tif</href>
+				<viewBoundScale>0.75</viewBoundScale>
+			</Icon>
+			<LatLonBox>
+				<north>32.55102462331665</north>
+				<south>32.55088662331666</south>
+				<east>-117.0625600204447</east>
+				<west>-117.0628170204447</west>
+				<rotation>-20.93664716473178</rotation>
+			</LatLonBox>
+		</GroundOverlay>
+		<GroundOverlay>
+			<name>81, 03-C-154, Abutment 1</name>
+			<visibility>0</visibility>
+			<Icon>
+				<href>../draw/28151-d/28151-D-81_GE8192.tif</href>
+				<viewBoundScale>0.75</viewBoundScale>
+			</Icon>
+			<LatLonBox>
+				<north>32.5466161109335</north>
+				<south>32.54615411093349</south>
+				<east>-117.0656737102775</east>
+				<west>-117.0665271102775</west>
+				<rotation>54.29619948623368</rotation>
+			</LatLonBox>
+		</GroundOverlay>
+		<GroundOverlay>
+			<name>82, 03-C-155, Abutment 6</name>
+			<visibility>0</visibility>
+			<Icon>
+				<href>../draw/28151-d/28151-D-82_GE8192.tif</href>
+				<viewBoundScale>0.75</viewBoundScale>
+			</Icon>
+			<LatLonBox>
+				<north>32.54894622423636</north>
+				<south>32.54846622423645</south>
+				<east>-117.0638017412455</east>
+				<west>-117.0646837412455</west>
+				<rotation>55.40267988649198</rotation>
+			</LatLonBox>
+		</GroundOverlay>
+		<GroundOverlay>
+			<name>91, 03-C-173, Abutment 1</name>
+			<visibility>0</visibility>
+			<Icon>
+				<href>../draw/28151-d/28151-D-91_OP.tif</href>
+				<viewBoundScale>0.75</viewBoundScale>
+			</Icon>
+			<LatLonBox>
+				<north>32.54707535213685</north>
+				<south>32.54613935213686</south>
+				<east>-117.065093506328</east>
+				<west>-117.0668138063279</west>
+				<rotation>54.93142756961237</rotation>
+			</LatLonBox>
+		</GroundOverlay>
+		<GroundOverlay>
+			<name>91, 03-C-173, Abutment 6</name>
+			<visibility>0</visibility>
+			<open>1</open>
+			<Icon>
+				<href>../draw/28151-d/28151-D-91_OP.tif</href>
+				<viewBoundScale>0.75</viewBoundScale>
+			</Icon>
+			<LatLonBox>
+				<north>32.54883531962846</north>
+				<south>32.54789931962858</south>
+				<east>-117.0636683483706</east>
+				<west>-117.0653886483706</west>
+				<rotation>54.93142756961237</rotation>
+			</LatLonBox>
+		</GroundOverlay>
+	</Folder>
+</Folder>
+</kml>

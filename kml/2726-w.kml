@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Folder>
+	<name>2726-W</name>
+	<visibility>0</visibility>
+	<open>1</open>
+	<GroundOverlay>
+		<name>10</name>
+		<visibility>0</visibility>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<a href="../draw/2726-W/2726-w-10-op.tif" target="">Print</a>]]></description>
+		<Icon>
+			<href>../draw/2726-W/2726-w-10-op.tif</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<LatLonBox>
+			<north>32.88663517084945</north>
+			<south>32.88202317084944</south>
+			<east>-116.8055790518106</east>
+			<west>-116.8129400518106</west>
+			<rotation>-1.964300079819491</rotation>
+		</LatLonBox>
+	</GroundOverlay>
+	<GroundOverlay>
+		<name>13</name>
+		<visibility>0</visibility>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<a href="../draw/2726-W/2726-w-13-op.tif" target="">Print</a>]]></description>
+		<Icon>
+			<href>../draw/2726-W/2726-w-13-op.tif</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<LatLonBox>
+			<north>32.88805345581761</north>
+			<south>32.88376345581759</south>
+			<east>-116.8069744961885</east>
+			<west>-116.8140789961885</west>
+			<rotation>-1.017014740528075</rotation>
+		</LatLonBox>
+	</GroundOverlay>
+	<GroundOverlay>
+		<name>15</name>
+		<visibility>0</visibility>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<a href="../draw/2726-W/2726-w-15-op.tif" traget="">Print</a>]]></description>
+		<Icon>
+			<href>../draw/2726-W/2726-w-15-op.tif</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<LatLonBox>
+			<north>32.88428162530153</north>
+			<south>32.88161362530155</south>
+			<east>-116.8070649549068</east>
+			<west>-116.8114419549068</west>
+			<rotation>-1.583183955147536</rotation>
+		</LatLonBox>
+	</GroundOverlay>
+</Folder>
+</kml>

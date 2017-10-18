@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Folder>
+	<name>Facilities</name>
+	<visibility>0</visibility>
+	<open>0</open>
+	<Folder>
+		<name>Water System</name>
+		<visibility>0</visibility>
+		<open>0</open>
+		<Folder>
+			<name>Distribution System</name>
+			<visibility>0</visibility>
+			<open>0</open>
+			<Folder>
+				<name>Transmission Pipelines</name>
+				<visibility>0</visibility>
+				<open>0</open>
+				<NetworkLink>
+					<name>Clairemont Mesa Crosstie Pipeline</name>
+					<open>0</open>
+					<visibility>1</visibility>
+					<refreshVisibility>0</refreshVisibility>
+					<Link>
+						<href>Clairemont Mesa Crosstie Pipeline.kml</href>
+						<refreshMode>onInterval</refreshMode>
+						<refreshInterval>60</refreshInterval>
+					</Link>
+				</NetworkLink>
+				<NetworkLink>
+					<name>Del Mar Heights Pipeline</name>
+					<open>0</open>
+					<visibility>1</visibility>
+					<refreshVisibility>0</refreshVisibility>
+					<Link>
+						<href>Del Mar Heights Pipeline.kml</href>
+						<refreshMode>onInterval</refreshMode>
+						<refreshInterval>60</refreshInterval>
+					</Link>
+				</NetworkLink>
+				<NetworkLink>
+					<name>Kearny Mesa Pipeline</name>
+					<open>0</open>
+					<visibility>1</visibility>
+					<refreshVisibility>0</refreshVisibility>
+					<Link>
+						<href>Kearny Mesa Pipeline.kml</href>
+						<refreshMode>onInterval</refreshMode>
+						<refreshInterval>60</refreshInterval>
+					</Link>
+				</NetworkLink>
+				<NetworkLink>
+					<name>Murray 1st Pipeline</name>
+					<open>0</open>
+					<visibility>1</visibility>
+					<refreshVisibility>0</refreshVisibility>
+					<Link>
+						<href>Murray 1st Pipeline.kml</href>
+						<refreshMode>onInterval</refreshMode>
+						<refreshInterval>60</refreshInterval>
+					</Link>
+				</NetworkLink>
+			</Folder>
+		</Folder>
+	</Folder>
+</Folder>
+</kml>

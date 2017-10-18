@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Folder>
+	<name>21969-D</name>
+	<visibility>0</visibility>
+	<open>1</open>
+	<GroundOverlay>
+		<name>6</name>
+		<visibility>0</visibility>
+		<color>80ffffff</color>
+		<Icon>
+			<href>Y:/EPM/zEPM_PublicShare/Google Earth/draw/21969-D/d21969006-op8192.tif</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<LatLonBox>
+			<north>32.95814116572755</north>
+			<south>32.95584916572759</south>
+			<east>-117.2241840339668</east>
+			<west>-117.2285610339668</west>
+			<rotation>0.4308839778941354</rotation>
+		</LatLonBox>
+	</GroundOverlay>
+	<GroundOverlay>
+		<name>7</name>
+		<visibility>0</visibility>
+		<color>80ffffff</color>
+		<Icon>
+			<href>Y:/EPM/zEPM_PublicShare/Google Earth/draw/21969-D/d21969007-op8192.tif</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<LatLonBox>
+			<north>32.95783335909982</north>
+			<south>32.95553135909987</south>
+			<east>-117.2222643906017</east>
+			<west>-117.2266423906017</west>
+		</LatLonBox>
+	</GroundOverlay>
+	<GroundOverlay>
+		<name>9</name>
+		<visibility>0</visibility>
+		<color>80ffffff</color>
+		<Icon>
+			<href>Y:/EPM/zEPM_PublicShare/Google Earth/draw/21969-D/d21969009-op8192.tif</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<LatLonBox>
+			<north>32.95600581816616</north>
+			<south>32.95359181816617</south>
+			<east>-117.2232148520305</east>
+			<west>-117.2276308520305</west>
+			<rotation>-88.60675319682228</rotation>
+		</LatLonBox>
+	</GroundOverlay>
+</Folder>
+</kml>

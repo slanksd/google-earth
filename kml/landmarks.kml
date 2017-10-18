@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>landmarks.kml</name>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>Landmarks</name>
+		<open>1</open>
+		<Placemark>
+			<name>Vault Hatch</name>
+			<open>1</open>
+			<LookAt>
+				<longitude>-117.2066610201824</longitude>
+				<latitude>32.80667525637791</latitude>
+				<altitude>0</altitude>
+				<heading>-0.00848755101822472</heading>
+				<tilt>0</tilt>
+				<range>70.76153116631285</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-117.2067511946833,32.80661120158161,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>AV Can</name>
+			<open>1</open>
+			<LookAt>
+				<longitude>-117.1489585895875</longitude>
+				<latitude>32.78830138816987</latitude>
+				<altitude>0</altitude>
+				<heading>-0.001150193260401752</heading>
+				<tilt>0</tilt>
+				<range>32.54243967127061</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-117.1490142799368,32.78830787871547,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Vault Manhole</name>
+			<LookAt>
+				<longitude>-117.1659134773914</longitude>
+				<latitude>32.79121654923494</latitude>
+				<altitude>0</altitude>
+				<heading>-0.01033308671672629</heading>
+				<tilt>0</tilt>
+				<range>52.18192029395338</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-117.1659220178759,32.79113168540797,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>AV Can</name>
+			<LookAt>
+				<longitude>-117.1927893953575</longitude>
+				<latitude>32.79665156544597</latitude>
+				<altitude>0</altitude>
+				<heading>-0.02488983819737686</heading>
+				<tilt>0</tilt>
+				<range>46.77775955052618</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-117.1928073014497,32.79665718175473,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Vault Manhole</name>
+			<LookAt>
+				<longitude>-117.1927893953575</longitude>
+				<latitude>32.79665156544597</latitude>
+				<altitude>0</altitude>
+				<heading>-0.02488983819737686</heading>
+				<tilt>0</tilt>
+				<range>46.77775955052618</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-117.1928124127123,32.7966495725039,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Vault Manhole</name>
+			<LookAt>
+				<longitude>-117.1250179946395</longitude>
+				<latitude>32.75715339795924</latitude>
+				<altitude>0</altitude>
+				<heading>0.03570137139284202</heading>
+				<tilt>0</tilt>
+				<range>45.41721975669602</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-117.1251151768069,32.75715601793316,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>AV Can</name>
+			<LookAt>
+				<longitude>-117.1250179946395</longitude>
+				<latitude>32.75715339795924</latitude>
+				<altitude>0</altitude>
+				<heading>0.03570137139284202</heading>
+				<tilt>0</tilt>
+				<range>45.41721975669602</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-117.1251125101865,32.75714734587103,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sewer MH</name>
+			<LookAt>
+				<longitude>-117.2259386539781</longitude>
+				<latitude>32.95476316768388</latitude>
+				<altitude>0</altitude>
+				<heading>6.047970261033726e-006</heading>
+				<tilt>0</tilt>
+				<range>13.5950487403521</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-117.2259386539781,32.95476316768388,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sewer MH</name>
+			<LookAt>
+				<longitude>-117.2259680263456</longitude>
+				<latitude>32.9563670155376</latitude>
+				<altitude>0</altitude>
+				<heading>5.438396258652711</heading>
+				<tilt>0</tilt>
+				<range>12.69988846737786</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-117.2259680263456,32.9563670155376,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

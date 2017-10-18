@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Folder>
+	<name>28128-D</name>
+	<visibility>0</visibility>
+	<Folder>
+		<name>by Sheet No.</name>
+		<visibility>0</visibility>
+		<GroundOverlay>
+			<name>77, 00-CP-01</name>
+			<visibility>0</visibility>
+			<Icon>
+				<href>../draw/28128-d/28128-D-77_OP.tif</href>
+				<viewBoundScale>0.75</viewBoundScale>
+			</Icon>
+			<LatLonBox>
+				<north>32.54191921996596</north>
+				<south>32.54074321996585</south>
+				<east>-117.0665841809232</east>
+				<west>-117.0686441809232</west>
+				<rotation>0.2561140579072011</rotation>
+			</LatLonBox>
+		</GroundOverlay>
+		<GroundOverlay>
+			<name>78, 00-CP-02</name>
+			<visibility>0</visibility>
+			<Icon>
+				<href>../draw/28128-d/28128-D-78_OP.tif</href>
+				<viewBoundScale>0.75</viewBoundScale>
+			</Icon>
+			<LatLonBox>
+				<north>32.54278037017329</north>
+				<south>32.54161237017326</south>
+				<east>-117.0665773011908</east>
+				<west>-117.0686443011908</west>
+				<rotation>0.2560999973224644</rotation>
+			</LatLonBox>
+		</GroundOverlay>
+		<GroundOverlay>
+			<name>79, 00-CP-03</name>
+			<visibility>0</visibility>
+			<Icon>
+				<href>../draw/28128-d/28128-D-79_OP.tif</href>
+				<viewBoundScale>0.75</viewBoundScale>
+			</Icon>
+			<LatLonBox>
+				<north>32.54363699192516</north>
+				<south>32.54247799192519</south>
+				<east>-117.0665997695089</east>
+				<west>-117.0686347695089</west>
+				<rotation>0.2560999973224644</rotation>
+			</LatLonBox>
+		</GroundOverlay>
+		<GroundOverlay>
+			<name>80, 00-CP-04</name>
+			<visibility>0</visibility>
+			<Icon>
+				<href>../draw/28128-d/28128-D-80_OP.tif</href>
+				<viewBoundScale>0.75</viewBoundScale>
+			</Icon>
+			<LatLonBox>
+				<north>32.5445043803667</north>
+				<south>32.54333538036654</south>
+				<east>-117.066588377294</east>
+				<west>-117.068652377294</west>
+				<rotation>0.6113423782426324</rotation>
+			</LatLonBox>
+		</GroundOverlay>
+		<GroundOverlay>
+			<name>81, 00-CP-05</name>
+			<visibility>0</visibility>
+			<Icon>
+				<href>../draw/28128-d/28128-D-81_OP.tif</href>
+				<viewBoundScale>0.75</viewBoundScale>
+			</Icon>
+			<LatLonBox>
+				<north>32.54535811764516</north>
+				<south>32.54419211764511</south>
+				<east>-117.0665776830347</east>
+				<west>-117.0686566830347</west>
+			</LatLonBox>
+		</GroundOverlay>
+		<GroundOverlay>
+			<name>89, 00-CP-13</name>
+			<visibility>0</visibility>
+			<Icon>
+				<href>../draw/28128-d/28128-D-89_OP.tif</href>
+				<viewBoundScale>0.75</viewBoundScale>
+			</Icon>
+			<LatLonBox>
+				<north>32.54196083146423</north>
+				<south>32.54151183146421</south>
+				<east>-117.066894109357</east>
+				<west>-117.067713109357</west>
+			</LatLonBox>
+		</GroundOverlay>
+	</Folder>
+</Folder>
+</kml>

@@ -1,0 +1,14 @@
+# Ignore all directories and files except git related
+/*
+!.gitignore
+
+# Include:
+
+## kml
+!kml/
+
+## test
+!test/
+
+## utils
+!utils/
