@@ -60,6 +60,17 @@
 						<refreshInterval>60</refreshInterval>
 					</Link>
 				</NetworkLink>
+				<NetworkLink>
+					<name>Otay Mesa Bonita Connection Pipeline</name>
+					<open>0</open>
+					<visibility>1</visibility>
+					<refreshVisibility>0</refreshVisibility>
+					<Link>
+						<href>Otay Mesa Bonita Connection Pipeline.kml</href>
+						<refreshMode>onInterval</refreshMode>
+						<refreshInterval>60</refreshInterval>
+					</Link>
+				</NetworkLink>
 			</Folder>
 		</Folder>
 	</Folder>

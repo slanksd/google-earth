@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Folder>
+	<name>2982-W</name>
+	<visibility>0</visibility>
+	<open>1</open>
+	<GroundOverlay>
+		<name>2</name>
+		<visibility>0</visibility>
+		<color>b3ffffff</color>
+		<Icon>
+			<href>../draw/2982-W/w2982002-op.tif</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<LatLonBox>
+			<north>32.78195162971648</north>
+			<south>32.77962662971655</south>
+			<east>-117.0493465284114</east>
+			<west>-117.0540035284114</west>
+			<rotation>-3.244925757920797</rotation>
+		</LatLonBox>
+	</GroundOverlay>
+	<GroundOverlay>
+		<name>3</name>
+		<visibility>0</visibility>
+		<color>99ffffff</color>
+		<Icon>
+			<href>../draw/2982-W/w2982003-op.tif</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<LatLonBox>
+			<north>32.78249000379756</north>
+			<south>32.78018400379759</south>
+			<east>-117.0529200785497</east>
+			<west>-117.0577469785497</west>
+			<rotation>-19.80823502704856</rotation>
+		</LatLonBox>
+	</GroundOverlay>
+</Folder>
+</kml>

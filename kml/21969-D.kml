@@ -9,7 +9,7 @@
 		<visibility>0</visibility>
 		<color>80ffffff</color>
 		<Icon>
-			<href>Y:/EPM/zEPM_PublicShare/Google Earth/draw/21969-D/d21969006-op8192.tif</href>
+			<href>../draw/21969-D/d21969006-op8192.tif</href>
 			<viewBoundScale>0.75</viewBoundScale>
 		</Icon>
 		<LatLonBox>
@@ -25,7 +25,7 @@
 		<visibility>0</visibility>
 		<color>80ffffff</color>
 		<Icon>
-			<href>Y:/EPM/zEPM_PublicShare/Google Earth/draw/21969-D/d21969007-op8192.tif</href>
+			<href>../draw/21969-D/d21969007-op8192.tif</href>
 			<viewBoundScale>0.75</viewBoundScale>
 		</Icon>
 		<LatLonBox>
@@ -40,7 +40,7 @@
 		<visibility>0</visibility>
 		<color>80ffffff</color>
 		<Icon>
-			<href>Y:/EPM/zEPM_PublicShare/Google Earth/draw/21969-D/d21969009-op8192.tif</href>
+			<href>../draw/21969-D/d21969009-op8192.tif</href>
 			<viewBoundScale>0.75</viewBoundScale>
 		</Icon>
 		<LatLonBox>

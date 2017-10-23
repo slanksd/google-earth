@@ -1687,6 +1687,17 @@
 					<name>2981 – 2990</name>
 					<visibility>0</visibility>
 					<open>0</open>
+					<NetworkLink>
+						<name>2982-W</name>
+						<open>0</open>
+						<visibility>1</visibility>
+						<refreshVisibility>0</refreshVisibility>
+						<Link>
+							<href>2982-W.kml</href>
+							<refreshMode>onInterval</refreshMode>
+							<refreshInterval>60</refreshInterval>
+						</Link>
+					</NetworkLink>
 				</Folder>
 				<Folder>
 					<name>2991 – 3000</name>
@@ -10767,6 +10778,17 @@
 					<name>19321 – 19330</name>
 					<visibility>0</visibility>
 					<open>0</open>
+					<NetworkLink>
+						<name>19334-D</name>
+						<open>0</open>
+						<visibility>1</visibility>
+						<refreshVisibility>0</refreshVisibility>
+						<Link>
+							<href>19334-D.kml</href>
+							<refreshMode>onInterval</refreshMode>
+							<refreshInterval>60</refreshInterval>
+						</Link>
+					</NetworkLink>
 				</Folder>
 				<Folder>
 					<name>19331 – 19340</name>
