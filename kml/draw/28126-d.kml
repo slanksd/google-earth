@@ -12,7 +12,7 @@
 			<name>42, 00-CP-01</name>
 			<visibility>0</visibility>
 			<Icon>
-				<href>../draw/28126-d/28126-D-42_OP.tif</href>
+<href>../../draw/28126-d/28126-D-42_OP.tif</href>
 				<viewBoundScale>0.75</viewBoundScale>
 			</Icon>
 			<LatLonBox>
@@ -27,7 +27,7 @@
 			<name>43, 00-CP-02</name>
 			<visibility>0</visibility>
 			<Icon>
-				<href>../draw/28126-d/28126-D-43_OP.tif</href>
+<href>../../draw/28126-d/28126-D-43_OP.tif</href>
 				<viewBoundScale>0.75</viewBoundScale>
 			</Icon>
 			<LatLonBox>
@@ -42,7 +42,7 @@
 			<name>44, 00-CP-03</name>
 			<visibility>0</visibility>
 			<Icon>
-				<href>../draw/28126-d/28126-D-44_OP.tif</href>
+<href>../../draw/28126-d/28126-D-44_OP.tif</href>
 				<viewBoundScale>0.75</viewBoundScale>
 			</Icon>
 			<LatLonBox>
@@ -57,7 +57,7 @@
 			<name>45, 00-CP-04</name>
 			<visibility>0</visibility>
 			<Icon>
-				<href>../draw/28126-d/28126-D-45_OP.tif</href>
+<href>../../draw/28126-d/28126-D-45_OP.tif</href>
 				<viewBoundScale>0.75</viewBoundScale>
 			</Icon>
 			<LatLonBox>
@@ -72,7 +72,7 @@
 			<name>46, 00-CP-05</name>
 			<visibility>0</visibility>
 			<Icon>
-				<href>../draw/28126-d/28126-D-46_OP.tif</href>
+<href>../../draw/28126-d/28126-D-46_OP.tif</href>
 				<viewBoundScale>0.75</viewBoundScale>
 			</Icon>
 			<LatLonBox>
@@ -87,7 +87,7 @@
 			<name>50, 00-PP-02</name>
 			<visibility>0</visibility>
 			<Icon>
-				<href>../draw/28126-d/28126-D-50_OP.tif</href>
+<href>../../draw/28126-d/28126-D-50_OP.tif</href>
 				<viewBoundScale>0.75</viewBoundScale>
 			</Icon>
 			<LatLonBox>
@@ -102,7 +102,7 @@
 			<name>51, 00-PP-03</name>
 			<visibility>0</visibility>
 			<Icon>
-				<href>../draw/28126-d/28126-D-51_OP.tif</href>
+<href>../../draw/28126-d/28126-D-51_OP.tif</href>
 				<viewBoundScale>0.75</viewBoundScale>
 			</Icon>
 			<LatLonBox>
@@ -118,7 +118,7 @@
 			<visibility>0</visibility>
 			<open>1</open>
 			<Icon>
-				<href>../draw/28126-d/28126-D-51_OP.tif</href>
+<href>../../draw/28126-d/28126-D-51_OP.tif</href>
 				<viewBoundScale>0.75</viewBoundScale>
 			</Icon>
 			<LatLonBox>

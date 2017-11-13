@@ -10,7 +10,7 @@
 		<Snippet maxLines="0"></Snippet>
 		<description><![CDATA[<a href="../draw/2726-W/2726-w-10-op.tif" target="">Print</a>]]></description>
 		<Icon>
-			<href>../draw/2726-W/2726-w-10-op.tif</href>
+<href>../../draw/2726-W/2726-w-10-op.tif</href>
 			<viewBoundScale>0.75</viewBoundScale>
 		</Icon>
 		<LatLonBox>
@@ -27,7 +27,7 @@
 		<Snippet maxLines="0"></Snippet>
 		<description><![CDATA[<a href="../draw/2726-W/2726-w-13-op.tif" target="">Print</a>]]></description>
 		<Icon>
-			<href>../draw/2726-W/2726-w-13-op.tif</href>
+<href>../../draw/2726-W/2726-w-13-op.tif</href>
 			<viewBoundScale>0.75</viewBoundScale>
 		</Icon>
 		<LatLonBox>
@@ -44,7 +44,7 @@
 		<Snippet maxLines="0"></Snippet>
 		<description><![CDATA[<a href="../draw/2726-W/2726-w-15-op.tif" traget="">Print</a>]]></description>
 		<Icon>
-			<href>../draw/2726-W/2726-w-15-op.tif</href>
+<href>../../draw/2726-W/2726-w-15-op.tif</href>
 			<viewBoundScale>0.75</viewBoundScale>
 		</Icon>
 		<LatLonBox>

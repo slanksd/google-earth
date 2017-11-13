@@ -9,7 +9,7 @@
 		<visibility>0</visibility>
 		<color>b3ffffff</color>
 		<Icon>
-			<href>../draw/2982-W/w2982002-op.tif</href>
+<href>../../draw/2982-W/w2982002-op.tif</href>
 			<viewBoundScale>0.75</viewBoundScale>
 		</Icon>
 		<LatLonBox>
@@ -25,7 +25,7 @@
 		<visibility>0</visibility>
 		<color>99ffffff</color>
 		<Icon>
-			<href>../draw/2982-W/w2982003-op.tif</href>
+<href>../../draw/2982-W/w2982003-op.tif</href>
 			<viewBoundScale>0.75</viewBoundScale>
 		</Icon>
 		<LatLonBox>

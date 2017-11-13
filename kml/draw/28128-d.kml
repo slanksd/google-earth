@@ -10,7 +10,7 @@
 			<name>77, 00-CP-01</name>
 			<visibility>0</visibility>
 			<Icon>
-				<href>../draw/28128-d/28128-D-77_OP.tif</href>
+<href>../../draw/28128-d/28128-D-77_OP.tif</href>
 				<viewBoundScale>0.75</viewBoundScale>
 			</Icon>
 			<LatLonBox>
@@ -25,7 +25,7 @@
 			<name>78, 00-CP-02</name>
 			<visibility>0</visibility>
 			<Icon>
-				<href>../draw/28128-d/28128-D-78_OP.tif</href>
+<href>../../draw/28128-d/28128-D-78_OP.tif</href>
 				<viewBoundScale>0.75</viewBoundScale>
 			</Icon>
 			<LatLonBox>
@@ -40,7 +40,7 @@
 			<name>79, 00-CP-03</name>
 			<visibility>0</visibility>
 			<Icon>
-				<href>../draw/28128-d/28128-D-79_OP.tif</href>
+<href>../../draw/28128-d/28128-D-79_OP.tif</href>
 				<viewBoundScale>0.75</viewBoundScale>
 			</Icon>
 			<LatLonBox>
@@ -55,7 +55,7 @@
 			<name>80, 00-CP-04</name>
 			<visibility>0</visibility>
 			<Icon>
-				<href>../draw/28128-d/28128-D-80_OP.tif</href>
+<href>../../draw/28128-d/28128-D-80_OP.tif</href>
 				<viewBoundScale>0.75</viewBoundScale>
 			</Icon>
 			<LatLonBox>
@@ -70,7 +70,7 @@
 			<name>81, 00-CP-05</name>
 			<visibility>0</visibility>
 			<Icon>
-				<href>../draw/28128-d/28128-D-81_OP.tif</href>
+<href>../../draw/28128-d/28128-D-81_OP.tif</href>
 				<viewBoundScale>0.75</viewBoundScale>
 			</Icon>
 			<LatLonBox>
@@ -84,7 +84,7 @@
 			<name>89, 00-CP-13</name>
 			<visibility>0</visibility>
 			<Icon>
-				<href>../draw/28128-d/28128-D-89_OP.tif</href>
+<href>../../draw/28128-d/28128-D-89_OP.tif</href>
 				<viewBoundScale>0.75</viewBoundScale>
 			</Icon>
 			<LatLonBox>

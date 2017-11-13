@@ -12,7 +12,7 @@
 			<name>72, 03-C-141</name>
 			<visibility>0</visibility>
 			<Icon>
-				<href>../draw/28151-d/28151-D-72_GE8192.tif</href>
+<href>../../draw/28151-d/28151-D-72_GE8192.tif</href>
 				<viewBoundScale>0.75</viewBoundScale>
 			</Icon>
 			<LatLonBox>
@@ -27,7 +27,7 @@
 			<name>73, 03-C-142</name>
 			<visibility>0</visibility>
 			<Icon>
-				<href>../draw/28151-d/28151-D-73_GE8192.tif</href>
+<href>../../draw/28151-d/28151-D-73_GE8192.tif</href>
 				<viewBoundScale>0.75</viewBoundScale>
 			</Icon>
 			<LatLonBox>
@@ -42,7 +42,7 @@
 			<name>74, 03-C-143</name>
 			<visibility>0</visibility>
 			<Icon>
-				<href>../draw/28151-d/28151-D-74_GE8192.tif</href>
+<href>../../draw/28151-d/28151-D-74_GE8192.tif</href>
 				<viewBoundScale>0.75</viewBoundScale>
 			</Icon>
 			<LatLonBox>
@@ -57,7 +57,7 @@
 			<name>75, 03-C-144</name>
 			<visibility>0</visibility>
 			<Icon>
-				<href>../draw/28151-d/28151-D-75_GE8192.tif</href>
+<href>../../draw/28151-d/28151-D-75_GE8192.tif</href>
 				<viewBoundScale>0.75</viewBoundScale>
 			</Icon>
 			<LatLonBox>
@@ -72,7 +72,7 @@
 			<name>76, 03-C-145</name>
 			<visibility>0</visibility>
 			<Icon>
-				<href>../draw/28151-d/28151-D-76_GE8192.tif</href>
+<href>../../draw/28151-d/28151-D-76_GE8192.tif</href>
 				<viewBoundScale>0.75</viewBoundScale>
 			</Icon>
 			<LatLonBox>
@@ -87,7 +87,7 @@
 			<name>81, 03-C-154, Abutment 1</name>
 			<visibility>0</visibility>
 			<Icon>
-				<href>../draw/28151-d/28151-D-81_GE8192.tif</href>
+<href>../../draw/28151-d/28151-D-81_GE8192.tif</href>
 				<viewBoundScale>0.75</viewBoundScale>
 			</Icon>
 			<LatLonBox>
@@ -102,7 +102,7 @@
 			<name>82, 03-C-155, Abutment 6</name>
 			<visibility>0</visibility>
 			<Icon>
-				<href>../draw/28151-d/28151-D-82_GE8192.tif</href>
+<href>../../draw/28151-d/28151-D-82_GE8192.tif</href>
 				<viewBoundScale>0.75</viewBoundScale>
 			</Icon>
 			<LatLonBox>
@@ -117,7 +117,7 @@
 			<name>91, 03-C-173, Abutment 1</name>
 			<visibility>0</visibility>
 			<Icon>
-				<href>../draw/28151-d/28151-D-91_OP.tif</href>
+<href>../../draw/28151-d/28151-D-91_OP.tif</href>
 				<viewBoundScale>0.75</viewBoundScale>
 			</Icon>
 			<LatLonBox>
@@ -133,7 +133,7 @@
 			<visibility>0</visibility>
 			<open>1</open>
 			<Icon>
-				<href>../draw/28151-d/28151-D-91_OP.tif</href>
+<href>../../draw/28151-d/28151-D-91_OP.tif</href>
 				<viewBoundScale>0.75</viewBoundScale>
 			</Icon>
 			<LatLonBox>

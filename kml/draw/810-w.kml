@@ -8,7 +8,7 @@
 		<name>1</name>
 		<visibility>0</visibility>
 		<Icon>
-			<href>..\draw\810-W\w810001-op.tiff</href>
+<href>../../draw/810-W/w810001-op.tiff</href>
 			<viewBoundScale>0.75</viewBoundScale>
 		</Icon>
 		<LatLonBox>
@@ -28,7 +28,7 @@
 		<name>2</name>
 		<visibility>0</visibility>
 		<Icon>
-			<href>..\draw\810-W\w810002-op.tiff</href>
+<href>../../draw/810-W/w810002-op.tiff</href>
 			<viewBoundScale>0.75</viewBoundScale>
 		</Icon>
 		<LatLonBox>
@@ -51,7 +51,7 @@
 		<name>3</name>
 		<visibility>0</visibility>
 		<Icon>
-			<href>..\draw\810-W\w810003-op.tiff</href>
+<href>../../draw/810-W/w810003-op.tiff</href>
 			<viewBoundScale>0.75</viewBoundScale>
 		</Icon>
 		<LatLonBox>
@@ -66,7 +66,7 @@
 		<name>4</name>
 		<visibility>0</visibility>
 		<Icon>
-			<href>..\draw\810-W\w810004-op.tiff</href>
+<href>../../draw/810-W/w810004-op.tiff</href>
 			<viewBoundScale>0.75</viewBoundScale>
 		</Icon>
 		<LatLonBox>
@@ -81,7 +81,7 @@
 		<name>5</name>
 		<visibility>0</visibility>
 		<Icon>
-			<href>..\draw\810-W\w810005-op.tiff</href>
+<href>../../draw/810-W/w810005-op.tiff</href>
 			<viewBoundScale>0.75</viewBoundScale>
 		</Icon>
 		<LatLonBox>
@@ -96,7 +96,7 @@
 		<name>6</name>
 		<visibility>0</visibility>
 		<Icon>
-			<href>..\draw\810-W\w810006-op.tiff</href>
+<href>../../draw/810-W/w810006-op.tiff</href>
 			<viewBoundScale>0.75</viewBoundScale>
 		</Icon>
 		<LatLonBox>
@@ -111,7 +111,7 @@
 		<name>7</name>
 		<visibility>0</visibility>
 		<Icon>
-			<href>..\draw\810-W\w810007-op.tiff</href>
+<href>../../draw/810-W/w810007-op.tiff</href>
 			<viewBoundScale>0.75</viewBoundScale>
 		</Icon>
 		<LatLonBox>
@@ -126,7 +126,7 @@
 		<name>8</name>
 		<visibility>0</visibility>
 		<Icon>
-			<href>..\draw\810-W\w810008-op.tiff</href>
+<href>../../draw/810-W/w810008-op.tiff</href>
 			<viewBoundScale>0.75</viewBoundScale>
 		</Icon>
 		<LatLonBox>
@@ -141,7 +141,7 @@
 		<name>9</name>
 		<visibility>0</visibility>
 		<Icon>
-			<href>..\draw\810-W\w810009-op.tiff</href>
+<href>../../draw/810-W/w810009-op.tiff</href>
 			<viewBoundScale>0.75</viewBoundScale>
 		</Icon>
 		<LatLonBox>
@@ -156,7 +156,7 @@
 		<name>10</name>
 		<visibility>0</visibility>
 		<Icon>
-			<href>..\draw\810-W\w810010-op.tiff</href>
+<href>../../draw/810-W/w810010-op.tiff</href>
 			<viewBoundScale>0.75</viewBoundScale>
 		</Icon>
 		<LatLonBox>
@@ -171,7 +171,7 @@
 		<name>11</name>
 		<visibility>0</visibility>
 		<Icon>
-			<href>..\draw\810-W\w810011-op.tiff</href>
+<href>../../draw/810-W/w810011-op.tiff</href>
 			<viewBoundScale>0.75</viewBoundScale>
 		</Icon>
 		<LatLonBox>
