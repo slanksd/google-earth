@@ -9,7 +9,7 @@ import pprint
 DRAW_DIRECTORY = "../draw"
 KML_DRAW_DIRECTORY = "../kml/draw"
 MAIN_OUTPUT_KML_FILE = "../kml/improvement-drawings.kml"
-DRAW_TYPE_LIST = ["d","w"]
+DRAW_TYPE_LIST = ["d","D","l","L","w","W"]
 LOWER_BOUND = 1
 UPPER_BOUND = 100000
 RESOLUTION = 10
@@ -122,7 +122,7 @@ with io.open( MAIN_OUTPUT_KML_FILE, "w", encoding="utf-8" ) as file:
 							"</NetworkLink>"
 							% (drawing, drawing)
 						)
-						print("drawing: " + drawing)
+						#print("drawing: " + drawing)
 			file.write( "\n</Folder>")
 
 	#print( tree[ 0 ] )
@@ -143,8 +143,8 @@ with io.open( MAIN_OUTPUT_KML_FILE, "w", encoding="utf-8" ) as file:
 				rcsvlyWrite( nextBranches )
 			else:
 				drawingList = branch[2]
-				print("drawingList:") 
-				print(drawingList)
+				#print("drawingList:") 
+				#print(drawingList)
 		file.write( "\n</Folder>")
 	file.write( "\n</Folder>"
 	"\n</kml>" )
@@ -158,13 +158,13 @@ for drawingSet in drawingSetList:
 			with io.open( writeFilePath, "w", encoding="utf-8" ) as writeFile:
 				for line in readFile:
 					if "<href>" in line:
-						print(line)
+						#print(line)
 						arrLine = line.split("/")
-						print(arrLine)
+						#print(arrLine)
 						newArrLine = arrLine[ -3 : ] # get last 3 elements
-						print(newArrLine)
+						#print(newArrLine)
 						newLine = "<href>../" + DRAW_DIRECTORY + "/" + "/".join( str( element ) for element in newArrLine ) # account for location of this script
-						print(newLine)
+						#print(newLine)
 						writeFile.write( newLine )
 					else:
 						writeFile.write( line )

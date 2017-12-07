@@ -4,11 +4,5 @@
 
 # Include:
 
-## kml
-!kml/
-
-## test
-!test/
-
 ## utils
 !utils/
